@@ -1,0 +1,8 @@
+Nama Mahasiswa                 : ... //int nama;
+NIM                            : ... //int nim;
+JUMLAH MATA KULIAH YG DIAMBIL  : ... // int jumlahmatkul;
+
+masukkan nama matakuliah : 
+MASUKKAN JUMLAH SKS      : sks[i]
+Keringanan SKS           : diskon
+Total Biaya              : int total2;
